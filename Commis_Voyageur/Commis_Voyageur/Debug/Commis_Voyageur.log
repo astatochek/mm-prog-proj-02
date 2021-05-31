@@ -1,0 +1,114 @@
+﻿  main.cpp
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(60,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(75,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(77,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(154,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(154,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(156,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(156,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(163,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(163,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(165,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(165,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(181,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(183,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(183,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(184,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(189,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(189,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(195,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(195,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(198,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(198,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(218,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(218,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(220,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(220,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(227,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(227,34): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(229,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(229,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(237,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(239,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(239,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(240,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(244,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(244,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(250,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(250,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(253,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Заяц-ПК\source\repos\ProjectGovna2\ProjectGovna2\main.cpp(253,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Commis_Voyageur.vcxproj -> C:\Users\Заяц-ПК\source\repos\Commis_Voyageur\Debug\Commis_Voyageur.exe
