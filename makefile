@@ -14,7 +14,7 @@ Genetic.o: Genetic.cpp Genetic.h
 	g++ -c Genetic.cpp
 SimulatedAnnealing.o: SimulatedAnnealing.cpp SimulatedAnnealing.h
 	g++ -c SimulatedAnnealing.cpp			
-main.o: main.cpp
+main.o: main.cpp AntColony.h BranchAndBound.h BruteForce.h ClosestNeighbour.h Dynamic.h Genetic.h SimulatedAnnealing.h
 	g++ -c main.cpp
 clean:
 	rm -f myProg *.o
